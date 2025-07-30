@@ -25,8 +25,8 @@
 - **New Title Options:**  
   1. `ICT Specialist (FinTech)`<br>
   2. `ICT Specialist (Payment Operations)`<br>
-  3. `ICT Engineer (FinTech)` *NB! this aligns with his education and expertise.*<br>
-  4. `ICT Engineer (Payment Operations)`*NB! this aligns with his education and expertise.*<br>
+  3. `ICT Engineer (FinTech)` 
+  4. **`ICT Engineer (Payment Operations)`** *Mr.A's choice*<br>
   5. `Integration Engineer (FinTech)`<br>
   6. `Integration Engineer (Payment Operations)`<br>
   7. `Support Engineer (FinTech)`<br>
