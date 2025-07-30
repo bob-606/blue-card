@@ -48,6 +48,7 @@
   > *"Role requires niche DLT skills (node operation, Web3 integration) aligned with Cyprus’s digital growth strategy."*  
 
 #### **Step 3: Education Evidence Bundle**  
+
 | Document | Purpose |  
 |----------|---------|  
 | Engineering Degree | Core qualification |  
@@ -56,6 +57,7 @@
 | MSIT Transcripts | Proves advanced ICT upskilling |  
 
 #### **Step 4: Submission Timeline**  
+
 | Phase | Action | Timeline |  
 |-------|--------|----------|  
 | **Revising** | HR updates title + description | (n) days |  
