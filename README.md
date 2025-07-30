@@ -13,7 +13,7 @@
 |---------------------------|------------|----------------------|--------|  
 | **Salary**                | ✅ MET     | €4,000 → €4,600/month (€48K → €55.2K/year) | Explicit progression clause in contract. |  
 | **Qualifications**        | ✅ MET     | **1. Engineering Degree** (core)<br>**2. Business Degree** (IT courses)<br>**3. Technical Diploma** (Full-Stack)<br>**4. Ongoing Master's in IT**(7/12) | Submit all transcripts; highlight IT courses in business degree. |  
-| **Job Title/Sector**      | ⚠️ CRITICAL | Original: "Payment Operation Specialist" | Rename needed **`ICT Specialist`** or **`ICT Engineer`**. |  
+| **Job Title/Sector**      | ⚠️ CRITICAL | Original: "Payment Operation Specialist" | Rename needed (e.g., **`ICT Specialist`** or **`ICT Engineer`**). |  
 | **Documents**             | ✅ READY   | Passport, degrees, MEUBC form, medical insurance | Include transcripts showing IT courses. |  
 | **Application Channel**   | ✅ OPTIMAL | Employer-submitted | Employer covers submission + technical cover letter. |  
 
@@ -58,8 +58,8 @@
 #### **Step 4: Submission Timeline**  
 | Phase | Action | Timeline |  
 |-------|--------|----------|  
-| **Revise JD** | HR updates title + description | (n) days |  
-| **Submit** | Employer application via [Portal](http://www.mip.gov.cy/md) | (n) days |  
+| **Revising** | HR updates title + description | (n) days |  
+| **Submitting** | Employer application via [Portal](http://www.mip.gov.cy/md) | (n) days |  
 | **Processing** | Entry permit | ≤1 month |  
 | **Biometrics** | In Cyprus (post-arrival) | Day 1-3 |  
 | **Blue Card** | Issuance | ≤3 months |  
