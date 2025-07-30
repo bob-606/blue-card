@@ -24,13 +24,13 @@
 #### **Step 1: Job Title & Description Amendment**  
 - **New Title Options:**  
   1. `ICT Specialist (FinTech)`<br>
-  2. `ICT Specialist (Payment Operation)`<br>
+  2. `ICT Specialist (Payment Operations)`<br>
   3. `ICT Engineer (FinTech)` *NB! this aligns with his education and expertise.*<br>
-  4. `ICT Engineer (Payment Operation)`*NB! this aligns with his education and expertise.*<br>
+  4. `ICT Engineer (Payment Operations)`*NB! this aligns with his education and expertise.*<br>
   5. `Integration Engineer (FinTech)`<br>
-  6. `Integration Engineer (Payment Operation)`<br>
+  6. `Integration Engineer (Payment Operations)`<br>
   7. `Support Engineer (FinTech)`<br>
-  8. `Support Engineer (Payment Operation)`<br>
+  8. `Support Engineer (Payment Operations)`<br>
 
 - **Job Description:**  
   **Add These Technical Keywords:**  
