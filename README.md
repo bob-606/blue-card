@@ -3,7 +3,7 @@
 ### **EU Blue Card Application: Cyprus**  
 **Success Probability:**  
 - **Without Fixes:** **< 10%** (Non-ICT title).  
-- **With Fixes:** **91% ++** (DLT specialization + multi-degree leverage + salary).  
+- **With Fixes:** **91% ++** (ICT specialization + multi-degree leverage + salary).  
 
 ---
 
